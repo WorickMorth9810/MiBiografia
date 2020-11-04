@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mi Biografia</string>
+    <string name="name">Josue Ivan</string>
+    <string name="letrero_datos">Mis Datos</string>
+    <string name="Bio">Hola mi Nombre es Josue Ivan
+        \n\n Soy Originario de la ciudad de Tequila Jalisco, actualmente soy Estudiante del TECMM
+        \n Estudio Ing. Informatica, por el momento me encuentro desempleado por el famoso covid
+        \n (Luego sale chamba) entre mis pasatiempos favoritos se encuentran escuchar musica, practicar baile, Jugar videojuegos
+        \n (League of Legends, Blasphemous, Amoung Us etc.)
+        \n Espero poder terminar este semestre que si a estado Prron y tenganme fe si se puede.
+\ n ¡¿Mi profesión?! Ah, ahora que lo pienso, me hubiera encantado ser panadero".
+\n "Sí, panadero".
+    </string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="titulos">
+        <item name="android:layout_marginTop">@dimen/layout_margin_top</item>
+        <item name="android:fontFamily">@font/alike</item>
+        <item name="android:paddingTop">@dimen/padding_lbl</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>
